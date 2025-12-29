@@ -6,7 +6,8 @@
 
 </div>
 
-
+> [!IMPORTANT]
+> Please read [This Announcement](https://github.com/UocDev/Tachyon/discussions/11) for the reason why this repository got archive
 
 ## About
 this project aimed to open-source codebase Roblox game call "Uma:Race", based on [Umamusume: Pretty Derby](https://en.wikipedia.org/wiki/Umamusume:_Pretty_Derby)
